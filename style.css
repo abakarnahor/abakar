@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+h2{color: rgb(0, 0, 0);
+
+}
+.abk{color: rgb(255, 255, 255);}
+h1{font-size: 250%;
+
+}
+h1{text-align: center;
+
+}
+
+.img {
+    display: flex;
+    justify-content: center; /* Centrez horizontalement */
+    align-items: center; /* Centrez verticalement */
+  }
+
+  p{
+    text-align: justify; /* Centrez le texte horizontalement */
+    padding-inline: 20%;
+  }
+
+  a{
+    text-align: center;/* Centrez le texte horizontalement */
+
+  }
+  
+  .container {
+    position: relative; /* Définissez le conteneur comme une référence de position */
+    /* Ajoutez d'autres styles au conteneur si nécessaire */
+  }
+  
+  .center-button {
+    display: flex;
+    justify-content: center; /* Centrez horizontalement */
+    align-items: center; /* Centrez verticalement */
+    
+  }
+
+  .sous-titre{
+    text-align: center;
+  }
